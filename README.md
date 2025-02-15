@@ -1,9 +1,11 @@
 # Study App - Flashcards with Leitner System (4 Boxes)
 
-Welcome to the **Study App** – a simple, effective learning tool based on the **Leitner System** with 4 boxes. This app helps you learn and retain information using spaced repetition, a proven technique for long-term memory retention.
+## 🌐 Hosting Information
+- The application is currently hosted under the domain: [nls.ct.ws](https://nls.ct.ws)
+- Built with PHP for server-side functionality.
 
-## 📖 What is the Leitner System?
-The Leitner System is a flashcard-based learning technique where cards are sorted into different boxes based on your recall performance. Cards you get right move to the next box and are reviewed less often, while cards you get wrong return to the first box for more frequent review.
+## 📖 General Information
+Welcome to the **Study App** – a simple, effective learning tool based on the **Leitner System** with 4 boxes. This app helps you learn and retain information using spaced repetition, a proven technique for long-term memory retention.
 
 ### 🗂️ The 4-Box System Breakdown:
 - **Box 1**: Daily Review – New cards or cards answered incorrectly.
@@ -23,7 +25,9 @@ The Leitner System is a flashcard-based learning technique where cards are sorte
     - Open the app and go to the "Flashcards" section.
     - Add a new flashcard with a question and answer.
 
-
+2. **Study Sessions:**
+    - Start a study session, and the app will show cards from the appropriate box.
+    - Answer each question to the best of your ability.
 
 3. **Card Movement Rules:**
     - If you answer correctly: The card moves to the next box.
@@ -44,8 +48,6 @@ The Leitner System is a flashcard-based learning technique where cards are sorte
 - Stay consistent – daily study sessions are key.
 - Focus on understanding the material rather than memorizing answers.
 - Use the progress tracker to monitor your learning journey.
-
-
 
 ## 🧑‍💻 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
