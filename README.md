@@ -1,7 +1,7 @@
 # Study App - Flashcards with Leitner System (4 Boxes)
 
 ## 🌐 Hosting Information
-- The application is currently hosted under the domain: [nls.ct.ws](https://nls.ct.ws)
+- The application is currently hosted under the domain: [nls.ct.ws](http://nls.ct.ws)
 - Built with PHP for server-side functionality.
 
 ## 📖 General Information
